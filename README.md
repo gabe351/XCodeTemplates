@@ -27,14 +27,15 @@ Inside of it you can find the folders for project and file templeates.
 
 ## Available templates
 
-1. [File templates](##File-templates)
-2. [Module templates](#-Module-templates)
+1. [File templates](#file-templates)
+2. [Module templates](#module-templates)
 
 <p>
   <img src="https://github.com/gabe351/XCodeTemplates/blob/main/Media/templateList.png">
 </p>
 
 ## File templates
+<h2 id="file-templates">File templates</h2>
 
 ### Enum
 
@@ -194,7 +195,7 @@ extension <User input> {
 
 ```
 
-## Module templates
+<h2 id="module-templates">Module templates</h2>
 
 1. UiKit - MVVM
 2. UiKit - MVP
