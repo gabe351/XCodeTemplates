@@ -21,14 +21,18 @@ Inside of it you can find the folders for project and file templeates.
 
 #### Video
 
-Add Importing templates video
+<p>
+<video src='https://github.com/gabe351/XCodeTemplates/blob/main/Media/AddingTemplates.mp4' width=180/>
+</p>
 
 ## Available templates
 
 1. [File templates](##File-templates)
 2. [Module templates](#-Module-templates)
 
-Add template list image
+<p>
+  <img src="https://github.com/gabe351/XCodeTemplates/blob/main/Media/templateList.png">
+</p>
 
 ## File templates
 
