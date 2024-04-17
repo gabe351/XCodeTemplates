@@ -20,10 +20,8 @@ Inside of it you can find the folders for project and file templeates.
 
 
 #### Video
+https://github.com/gabe351/XCodeTemplates/assets/12145021/c9093349-4a2d-4d98-8796-e3b00bd1d7c8
 
-<p>
-<video src='https://github.com/gabe351/XCodeTemplates/blob/main/Media/AddingTemplates.mp4' width=180/>
-</p>
 
 ## Available templates
 
