@@ -196,8 +196,16 @@ extension <User input> {
 
 <h2 id="module-templates">Module templates</h2>
 
+Module template creates a group of files according to the selected architecture:
+
+Add image here
+
 1. UiKit - MVVM
 2. UiKit - MVP
 3. UiKit - VIPER
+
+<h3 id="module-templates">MVVM module template</h3>
+
+
 
 
