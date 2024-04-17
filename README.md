@@ -34,7 +34,6 @@ Inside of it you can find the folders for project and file templeates.
   <img src="https://github.com/gabe351/XCodeTemplates/blob/main/Media/templateList.png">
 </p>
 
-## File templates
 <h2 id="file-templates">File templates</h2>
 
 ### Enum
