@@ -201,7 +201,8 @@ Add image here
 1. UiKit - MVVM
 2. UiKit - MVP
 3. UiKit - VIPER
-
+4. SwiftUI - MVVM
+5. SwiftUI - MVP
 
 ### UIKit - MVVM Folder structure
 <p>
@@ -216,6 +217,16 @@ Add image here
 ### UIKit - VIPER Folder structure
 <p>
   <img src="https://github.com/gabe351/XCodeTemplates/blob/main/Media/VIPERMedia.png" width="350">
+</p>
+
+### SwiftUI - MVVM Folder structure
+<p>
+  <img src="" width="350">
+</p>
+
+### SwiftUI - MVP Folder structure
+<p>
+  <img src="" width="350">
 </p>
 
 
