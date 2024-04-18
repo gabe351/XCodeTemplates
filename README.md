@@ -202,7 +202,21 @@ Add image here
 2. UiKit - MVP
 3. UiKit - VIPER
 
-<h3 id="module-templates">MVVM module template</h3>
+
+### UIKit - MVVM Folder structure
+<p>
+  <img src="https://github.com/gabe351/XCodeTemplates/blob/main/Media/MVVMMedia.png" width="350">
+</p>
+
+### UIKit - MVP Folder structure
+<p>
+  <img src="https://github.com/gabe351/XCodeTemplates/blob/main/Media/MVPMedia.png" width="350">
+</p>
+
+### UIKit - VIPER Folder structure
+<p>
+  <img src="https://github.com/gabe351/XCodeTemplates/blob/main/Media/VIPERMedia.png" width="350">
+</p>
 
 
 
