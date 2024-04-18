@@ -221,12 +221,12 @@ Add image here
 
 ### SwiftUI - MVVM Folder structure
 <p>
-  <img src="" width="350">
+  <img src="https://github.com/gabe351/XCodeTemplates/blob/main/Media/SwiftUIMVVMMedia.png" width="350">
 </p>
 
 ### SwiftUI - MVP Folder structure
 <p>
-  <img src="" width="350">
+  <img src="https://github.com/gabe351/XCodeTemplates/blob/main/Media/SwiftUIMVPMedia.png" width="350">
 </p>
 
 
